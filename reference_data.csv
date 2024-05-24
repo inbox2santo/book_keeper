@@ -1,0 +1,148 @@
+Pattern,Category
+HUDSON'S BAY,Apparel
+Uniqlo,Apparel
+SERVICE CHARGE CAPPED MONTHLY FEE,BankFees
+SERVICE CHARGE ADD TXN,BankFees
+ANNUAL FEE,BankFees
+PAYMENT THANK YOU,BillPayment
+PAYMENT RECEIVED,BillPayment
+WITHDRAWAL IBB,Cash
+ATM WITHDRAWAL,Cash
+KHEL SPORTS,ClubMembership
+AJAX TENNIS CLUB,ClubMembership
+TD/BANQUE TD,CreditCards
+INTERNET TRANSFER,CreditCards
+NEO FINANCIAL,CreditCards
+INTERNET DEPOSIT,Deposit-others
+DEPOSIT CANADA,Deposit-TaxRefunds
+DEPOSIT IND ALL AC-TOR,Deposit-Insurance
+BURRITO BOYZ,Dining
+restaurant,Dining
+cafe,Dining
+dining,Dining
+JACKED UP C,Dining
+MADURA DINE-IN,Dining
+MCDONALD'S,Dining
+TIM HORTONS,Dining
+HARVEST GREEN,Dining
+ANJAPPAR CHETTINAD,Dining
+THE OWL OF MINERVA,Dining
+UBER CANADA/UBEREATS,Dining
+LITTLE CAESARS,Dining
+MADURAI SAMAYAL,Dining
+THE BAGEL STOP,Dining
+SAI SWEETS & RESTAURAN,Dining
+UBER.*EATS,Dining
+TACO BELL,Dining
+FOOD TRUCK,Dining
+KARAHI POINT,Dining
+MR. JOHN S REAL KERALA,Dining
+TUSCAN WOLF,Dining
+ARABICA,Dining
+CLUCK CLUCKS,Dining
+KEG,Dining
+PIZZERIA,Dining
+CULTURES,Dining
+SURF WHITBY,Dining
+CHASKA,Dining
+THE PORTLY PIPER,Dining
+movie,Entertainment
+concert,Entertainment
+theater,Entertainment
+NETFLIX.COM,Entertainment
+LANDMARK WEB TICKETING,Entertainment
+LANDMARK 24,Entertainment
+E-TRANSFER,Etransfers
+COSTCO GAS,Gas
+ESSO CIRCLE K,Gas
+ESSO,Gas
+PETRO CANADA,Gas
+GLOBAL MONEY TRANSFER,GlobalTransfers
+METRO,Groceries
+WAL-MART,Groceries
+LCBO,Groceries
+7 ELEVEN STORE,Groceries
+DAISY MART,Groceries
+supermarket,Groceries
+grocery,Groceries
+market,Groceries
+PANCHVATI SUPER,Groceries
+E-TRANSFER.*MadrasBatter,Groceries
+AJAX IQBAL FOOD,Groceries
+WALMART STORE,Groceries
+COSTCO WHOLESAL,Groceries
+RETAIL PURCHASE.*METRO,Groceries
+NEW SPICELAND,Groceries
+NAZFOODS,Groceries
+WARRAICH MEATS,Groceries
+PACIFIC FRESH FOOD,Groceries
+LONGO'S,Groceries
+LOBLAWS,Groceries
+THE TREADMILL FACTORY,GymEquipment
+hospital,Healthcare
+clinic,Healthcare
+pharmacy,Healthcare
+E-TRANSFER.*Dance Payment,Healthcare
+E-TRANSFER.*Sudhir Badminton,Healthcare
+ONE HEALTHCARE,Healthcare
+SHOPPERS DRUG MART,Healthcare
+GREAT CLIPS,Healthcare
+HEALTH STUDIO,Healthcare
+DYNACARE,Healthcare
+FLEXITI FINANCIAL,HomeImprovement
+SLEEP COUNTRY,HomeImprovement
+EYE HOME SOLUTIONS,HomeImprovement
+Electronic Funds Transfer PAY TCS CA PAYROLL TATA CONSULTANCY SERVICES,Income
+E-TRANSFER.*SANTHOSH KANAKAPPAN,Income
+IND ALL LIFE IN,Insurance
+PREAUTHORIZED DEBIT UNICA,Insurance
+CERTAS HOME &AUTO INSURANCE CO,Insurance
+BELL CANADA,Internet
+ROGERS,Internet
+E-TRANSFER.*Newton,Investments
+INVESTMENT CIBCSI EFT-PAC,Investments
+Kumon,Kids
+PLAYDIUM,Kids
+MORTGAGE PAYMENT,Mortgage
+PREAUTHORIZED DEBIT IBB CIBC MORTGAGE SERVICING CENTRE,Mortgage
+ACURA FINANCIAL SERVICES,Maintenance-Car
+GLOW CAR WASH,Maintenance-Car
+DRAIN KING PLUMBERS,Maintenance-Home
+SEWER SQUAD PLUMBIN,Maintenance-Home
+E-TRANSFER.*Dami House Cleaning,Maintenance-Home
+WEED MAN,Maintenance-Home
+WALK IN NOTARY,NotaryServices
+TELUS,Phone
+FREEDOM MOBILE,Phone
+LUCKY MOBILE,Phone
+Town of Ajax,Tax-Property
+INTERNET BILL PAY.*CRA,Tax-Personal
+THE HOME DEPOT,Stationery
+DOLLARAMA,Stationery
+THE UPS STORE,Stationery
+AMAZON PAY,Stationery
+IKEA,Stationery
+AMZN Mktp CA,Stationery
+APPLE.COM/BILL,Subscription
+YouTubePremium,Subscription
+PlayStation Network,Subscription
+bus,Transport
+train,Transport
+taxi,Transport
+SUNWING VACATIONS,Travel
+PRESTO,Travel
+UBER CANADA/UBERCASH,Travel
+UBER CANADA/UBERTRIP,Travel
+LYFT,Travel
+UBER CASH,Travel
+ONROUTE,Travel
+QUALITY INN,Travel
+UBER.*TRIP,Travel
+electric,Utilities
+water,Utilities
+gas,Utilities
+Electronic Funds Transfer PREAUTHORIZED DEBIT ELEXICON ENERGY INC,Utilities
+ENBRIDGE,Utilities
+DEBIT DURHAM REGION,Utilities
+PREAUTHORIZED DEBIT Telus Mobility,Utilities
+RELIANCE HOME COMFORT,Utilities
